@@ -1,7 +1,7 @@
 ### Oii! Eu sou Ícaro 👋
 
 
-- 🔭 Aperfeiçiando meus conhecimentos em Back-end e Ciências de Dados
+- 🔭 Aperfeiçoando meus conhecimentos em Back-end e Ciências de Dados
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no email: icaropereirasun@gmail.com
 
