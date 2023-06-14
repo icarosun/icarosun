@@ -2,7 +2,7 @@
 
 
 - 🔭 Aperfeiçoando meus conhecimentos em Back-end e Ciências de Dados
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Elixir
 - 📫 Contate-me no email: icaropereirasun@gmail.com
 
 
