@@ -1,8 +1,7 @@
 ### Oii! Eu sou Ícaro 👋
 
-
-- 🔭 Aperfeiçoando meus conhecimentos em Back-end e Ciências de Dados
-- 🌱 Estudando Elixir
+- 🔭 Principais áreas de interesse: Back-end e Ciências de Dados
+- 🌱 Atualmente me capacitando como Desenvolvedor Web Full Stack e bolsista no projeto [Web Academy](https://webacademy.icomp.ufam.edu.br/) no [ICOMP](https://icomp.ufam.edu.br/)
 - 📫 Contate-me no email: icaropereirasun@gmail.com
 
 
