@@ -1,6 +1,6 @@
 ### Oii! Eu sou Ícaro 👋
 
-- 🔭 Principais áreas de interesse: Back-end e Ciências de Dados
+- 🔭 Principais áreas de interesse: Desenvolvimento Web Full Stack, Desenvolvimento Mobile, Ciência de dados.
 - 🌱 Atualmente me capacitando como Desenvolvedor Web Full Stack e bolsista no projeto [Web Academy](https://webacademy.icomp.ufam.edu.br/) no [ICOMP](https://icomp.ufam.edu.br/)
 - 📫 Contate-me no email: icaropereirasun@gmail.com
 
